@@ -1,0 +1,8 @@
+{
+  "name": "Copy Employee Management",
+  "description": "A high-performance employee management suite with role-based access, interactive task tracking, SOS reporting, birthday celebrations, and real-time motivational prompts powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
